@@ -1,6 +1,6 @@
-[![NPM version](https://img.shields.io/npm/v/referrer-catchup.svg)](https://www.npmjs.com/package/referrer-catchup)
-[![Build Status](https://img.shields.io/travis/ryo-hisano/referrer-catchup.svg)](https://travis-ci.org/ryo-hisano/referrer-catchup)
-[![Dependency Status](https://img.shields.io/david/ryo-hisano/referrer-catchup.svg)](https://david-dm.org/ryo-hisano/referrer-catchup)
+[![NPM version](https://img.shields.io/npm/v/unnecessary_assets.svg)](https://www.npmjs.com/package/unnecessary_assets)
+[![Build Status](https://img.shields.io/travis/ryo-hisano/unnecessary_assets.svg)](https://travis-ci.org/ryo-hisano/unnecessary_assets)
+[![Dependency Status](https://img.shields.io/david/ryo-hisano/unnecessary_assets.svg)](https://david-dm.org/ryo-hisano/unnecessary_assets)
 
 # 概要
 
