@@ -1,0 +1,13 @@
+{
+  "name": "unnecessary_assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "unnecessary_assets.js",
+  "scripts": {
+    "list": "node unnecessary_assets.js",
+    "remove": "node unnecessary_assets_remove.js"
+  },
+  "keywords": [],
+  "author": "Ryo Hisano <ryo080206@gmail.com> (https://qiita.com/ryo_hisano)",
+  "license": "ISC"
+}
