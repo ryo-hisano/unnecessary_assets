@@ -1,4 +1,3 @@
-[![NPM version](https://img.shields.io/npm/v/unnecessary_assets.svg)](https://www.npmjs.com/package/unnecessary_assets)
 [![Build Status](https://img.shields.io/travis/ryo-hisano/unnecessary_assets.svg)](https://travis-ci.org/ryo-hisano/unnecessary_assets)
 [![Dependency Status](https://img.shields.io/david/ryo-hisano/unnecessary_assets.svg)](https://david-dm.org/ryo-hisano/unnecessary_assets)
 
